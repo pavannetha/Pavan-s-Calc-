@@ -11,6 +11,6 @@ function cal(){
         display.value = eval(display.value);
     }
     catch(error){
-        display.value = "U FU*KER"
+        display.value = "ERROR"
     }
 }
